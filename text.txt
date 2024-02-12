@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+click me!
+<body>
+  <button onclick="myFunction()">❤️</button>
+  <p id="demo"></p>
+  <script>
+    function myFunction(){
+      var x = document.getElementById("demo");
+      x.innerHTML = "happy valentines day!! i was going to mail you a card but i couldnt find a stamp in time so I just coded you this <3 ik ive said it before but you mean so soo much to me and I couldnt picture my life without you in it. you're my best friend and then some. you are the highlight of my day and there isn't enough words to say how much I love you. im so lucky to have you in my life. i love you so much and i hope you have a great valentines day!!  love, ray";
+    }
+  </script>
+</body>
+
+</html>
