@@ -1,6 +1,7 @@
-style.css
-1 v html 1
-height: 100%; width: 100%;
-4
-5
-text-align: center; background-color: font-family: cursive;
+html{
+height: 100%;
+width: 100%;
+text-align: center;
+background-color: lightpink;
+font-family: cursive;
+}
